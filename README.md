@@ -14,14 +14,17 @@ Gestion de compte : Suivez vos dépenses et visualisez votre historique de trans
 
 Le projet est construit avec les technologies suivantes :
 
-Spring Boot (version 3.1.5)
-Java (version 17)
-Spring Data JPA
-Spring Boot Security & OAuth2 Client
-Thymeleaf
-MySQL Connector/J
-JaCoCo (version 0.8.7)
-Maven Surefire Report Plugin (version 3.1.2)
+| Technologie/Dépendance              | Version       |
+| ----------------------------------- | ------------- |
+| Spring Boot                         | 3.1.5         |
+| Java                                | 17            |
+| Spring Data JPA                     |               |
+| Spring Boot Security & OAuth2 Client|               |
+| Thymeleaf                           |               |
+| MySQL Connector/J                   |               |
+| JaCoCo                              | 0.8.7         |
+| Maven Surefire Report Plugin        | 3.1.2         |
+
 
 ## Livrables:
 - Le diagramme de classe UML:   
