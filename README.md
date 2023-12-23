@@ -1,5 +1,5 @@
 # PayMyBuddy
-Openclassrooms Project6s
+Openclassrooms Project6
 
 ## Description
 
